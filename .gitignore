@@ -1,0 +1,14 @@
+# Data and results: the radon measurements are confidential and must never be committed
+data/
+models/
+reports/
+
+# Files written next to the notebooks, derived from the data
+notebooks/**/cols_values.json
+notebooks/**/db.sqlite3
+notebooks/**/catboost_info/
+
+# Python and Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
