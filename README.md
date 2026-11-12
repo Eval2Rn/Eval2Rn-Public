@@ -19,8 +19,8 @@ The notebooks read their inputs from `data/raw/` at the root of the repository a
 
 | Folder in `data/raw/` | Source |
 |---|---|
-| `01_OFSP_radon_bdd` | Swiss national radon database, Federal Office of Public Health (FOPH) |
-| `02_OFSP_radon_map` | Swiss radon map, FOPH |
+| `01_OFSP_radon_bdd` | Swiss national radon database, [Federal Office of Public Health (FOPH)](https://www.ch-radon.ch) |
+| `02_OFSP_radon_map` | [Swiss radon map](https://map.geo.admin.ch/?layers=ch.bag.radonkarte), FOPH |
 | `03_OFS_regbl` | Federal Register of Buildings and Dwellings (RegBL), Federal Statistical Office (FSO) |
 | `04_SWISSTOPO_geology` | Geology, swisstopo |
 | `05_METESUISSE_climate` | Climate normals, MeteoSwiss |
@@ -36,7 +36,7 @@ The notebooks read their inputs from `data/raw/` at the root of the repository a
 | `17_ARE_zone_to_be_built` | Building zones, Federal Office for Spatial Development (ARE) |
 | `18_MINERGIE_buildings` | Minergie-certified buildings |
 
-All sources are publicly available except the national radon database, which is owned by the FOPH and subject to access restrictions: access requires a written request to the FOPH. Country boundaries and lakes for the maps are downloaded automatically from Natural Earth.
+All sources are publicly available except the national radon database, which is owned by the FOPH and subject to access restrictions: access requires a written request to the [FOPH](https://www.ch-radon.ch). Country boundaries and lakes for the maps are downloaded automatically from [Natural Earth](https://www.naturalearthdata.com/) (public domain).
 
 ## Notebooks
 
